@@ -1,0 +1,9 @@
+#root {
+    width: 10cm;
+    text-align: center;
+}
+
+.inforestaurante .row {
+    display: block;
+    width: 10cm;
+}

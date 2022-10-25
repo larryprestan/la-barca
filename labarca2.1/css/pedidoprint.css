@@ -1,0 +1,30 @@
+@media print {
+    .inforestaurante .row {
+        display: block;
+        width: 10cm;
+        margin-top: 1cm;
+    }
+    .infocliente .row {
+        width: 10cm;
+    }
+    .infopedido {
+        width: 10cm;
+        padding: 0;
+    }
+    .infopedido .table {
+        width: 10cm;
+    }
+    .piedelpedido .row {
+        width: 10cm;
+    }
+    h5,
+    h6 {
+        text-align: center;
+    }
+    .btn {
+        display: none;
+    }
+    hr {
+        width: 10cm;
+    }
+}
